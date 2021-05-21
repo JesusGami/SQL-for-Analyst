@@ -7,3 +7,11 @@ Sections:
 1. Reporting with SQL
 
    Create base reports to visualize them.
+   
+2. Data-drive decision
+
+   Using SQL to support decision making and introduction to OLAP
+
+3. SQL for Marketing
+
+   Queries to calculate core business metrics and KPIs
